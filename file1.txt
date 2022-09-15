@@ -2,3 +2,5 @@
 "ece"
 "me"
 "cse"
+"ce"
+"ai and ml"
